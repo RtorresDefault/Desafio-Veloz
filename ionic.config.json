@@ -1,0 +1,7 @@
+{
+  "name": "desafio-veloz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
